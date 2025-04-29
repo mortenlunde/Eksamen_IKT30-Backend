@@ -1,7 +1,12 @@
 # API som lar en bruker registrere dyr
 Dette APIet lar en bruker registrere dyrene sine på seg selv. Vi kan hente, opprette, oppdatere og slette brukere og dyr.
-Det er brukt 1 PostGreSQL- database med 10 dupliserte schemas, og ved å bruke header ved kall så sikrer vi at kun valgte schema benyttes.
+Det er brukt 1 PostgreSQL- database med 10 dupliserte schemas, og ved å bruke header ved kall så sikrer vi at kun valgte schema benyttes.
 
+## TEKNOLOGIER
+- C# .NET 8 REST-API
+- Azure
+- Bicep Script
+- PostgreSQL Database
 
 ## ENDEPUNKTER
 
