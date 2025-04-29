@@ -14,7 +14,7 @@ https://minedyrapi-web.azurewebsites.net/
 
 Her er en oversikt over alle tilgjengelige API-endepunkter, med beskrivelse, URL, og eksempel på kall. 
 
-**Legg alltid på header: X-Tenant-Schema: elev1**
+**Legg alltid på header: X-Tenant-Schema: elev1** (elev1-10)
 
 ### Brukere
 
